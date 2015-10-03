@@ -6,5 +6,6 @@ public class Hola_Pablo {
 		System.out.println("Hola Puga");
 
 		System.out.println("Funciona?***");
+		System.out.println("FUNCIONA!");
 	}
 }
